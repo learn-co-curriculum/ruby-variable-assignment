@@ -2,6 +2,8 @@
 
 ## Objectives
 
+mat test!
+
 1. Test your ability to assign a local variable.
 
 ## Instructions
