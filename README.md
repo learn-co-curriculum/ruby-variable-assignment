@@ -1,5 +1,5 @@
 # Variable Assignment
-
+123
 ## Objectives
 
 1. Test your ability to assign a local variable.
