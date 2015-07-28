@@ -1,5 +1,5 @@
 # Variable Assignment
-
+test
 ## Objectives
 
 1. Test your ability to assign a local variable.
@@ -38,5 +38,5 @@ Then you need to install Learn. Do that via: `gem install learn-co` in your comm
 To solve this test failure, create a local variable `greeting` in the `variable.rb` file. Set `greeting` equal to the string `"Hello World"`. Run `learn` to see if you did this correctly.
 
 ## Resources
-* [Learn to Program](https://pine.fm/LearnToProgram/chap_03.html)
+* [Learn to Program](https://pine.fm/LearnToProgram/chap_03.html1)
 * [Introduction to RSpec](http://blog.teamtreehouse.com/an-introduction-to-rspec)
