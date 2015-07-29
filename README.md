@@ -33,7 +33,7 @@ However, if you get:
 ```bash
 -bash: learn: command not found
 ```
-Then you need to install Learn. Do that via: `gem install learn-co` in your command line.
+...then you need to install Learn. Do that via: `gem install learn-co` in your command line.
 
 To solve this test failure, create a local variable `greeting` in the `variable.rb` file. Set `greeting` equal to the string `"Hello World"`. Run `learn` to see if you did this correctly.
 
