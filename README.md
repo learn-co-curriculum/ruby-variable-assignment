@@ -3,6 +3,7 @@
 ## Objectives
 
 1. Assign a local variable.
+2. Assign a global variable.
 
 ## Instructions
 
@@ -34,3 +35,5 @@ To solve this test failure, create a local variable `greeting` in the `variable.
 * [Introduction to RSpec](http://blog.teamtreehouse.com/an-introduction-to-rspec)
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/ruby-variable-assignment' title='Variable Assignment'>Variable Assignment</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/ruby-variable-assignment'>Variable Lab </a> on Learn.co and start learning to code for free.</p>
